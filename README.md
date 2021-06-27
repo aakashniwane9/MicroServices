@@ -29,7 +29,7 @@ EndPoint :- localhost:9191/users/
             {
               "firstName":"Aakash",
               "lastName":"Niwane",
-              "emailId":"aakash.niwane9@gmail.com",
+              "emailId":"xyz@gmail.com",
               "departmentId": "1"
             }
 
