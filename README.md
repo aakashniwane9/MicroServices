@@ -1,7 +1,8 @@
 # MicroServices
 
-Use Intellij Idea for simplicity use spring initializr - https://start.spring.io/ to create spring boot projects
-
+Use Intellij Idea for simplicity  
+use spring initializr - https://start.spring.io/ to create spring boot projects  
+  
 Step 1 - run cloud-config-server & java for zipkin-server.jar (cmd : java -jar zepkin-serv...).  
 Step 2 - run service-registry.  
 Step 3 - run cloud-gateway.  
