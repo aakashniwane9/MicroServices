@@ -17,21 +17,22 @@ Step 6 - run user-service.
 to the cloud-gateway , And hystrix dashboard is also connecte to the cloud-gateway so hence recommended to use the following EndPoint.
 
 
-EndPoint :- http://localhost:9191/departments/
-          {
-            "departmentName":"IT",
-            "departmentAddress":"3rd Cross, First Street",
-            "departmentCode":"IT-007"
-          }
-          
-EndPoint :- http://localhost:9191/departments/get?id=1
-
-EndPoint :- localhost:9191/users/
-            {
-              "firstName":"Aakash",
-              "lastName":"Niwane",
-              "emailId":"xyz@gmail.com",
-              "departmentId": "1"
-            }
-
-EndPoint :- localhost:9191/users/user?id=1
+EndPoint :- http://localhost:9191/departments/  
+          {  
+            "departmentName":"IT",  
+            "departmentAddress":"3rd Cross, First Street",  
+            "departmentCode":"IT-007"  
+          }  
+            
+EndPoint :- http://localhost:9191/departments/get?id=1  
+  
+EndPoint :- localhost:9191/users/  
+            {  
+              "firstName":"Aakash",  
+              "lastName":"Niwane",  
+              "emailId":"xyz@gmail.com",  
+              "departmentId": "1"  
+            }  
+  
+EndPoint :- localhost:9191/users/user?id=1  
+  
