@@ -2,12 +2,12 @@
 
 Use Intellij Idea for simplicity
 
-Step 1 - run cloud-config-server & java for zipkin-server.jar (cmd : java -jar zepkin-serv...).
-Step 2 - run service-registry.
-Step 3 - run cloud-gateway.
-Step 4 - run hystrix-dashboard.
-Step 5 - run department-Service.
-Step 6 - run user-service.
+Step 1 - run cloud-config-server & java for zipkin-server.jar (cmd : java -jar zepkin-serv...).  
+Step 2 - run service-registry.  
+Step 3 - run cloud-gateway.  
+Step 4 - run hystrix-dashboard.  
+Step 5 - run department-Service.  
+Step 6 - run user-service.  
 
 
 # Demo Data from Postman: 
